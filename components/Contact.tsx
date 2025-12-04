@@ -30,7 +30,7 @@ export default function Contact() {
         </div>
         
         <div className="bg-white/10 backdrop-blur-lg p-8 rounded-3xl border border-white/20">
-         <h3 className="text-2xl font-bold text-white mb-4">🚀 2025 Focus</h3>
+         <h3 className="text-2xl font-bold text-white mb-4">🚀 2026 Focus</h3>
 <ul className="text-left text-purple-100 space-y-2 max-w-2xl mx-auto">
   <li>✨ Launch KHOZNA MVP and validate product-market fit</li>
   <li>📊 Build comprehensive case studies demonstrating ROI</li>

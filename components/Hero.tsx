@@ -14,7 +14,7 @@ export default function Hero() {
           Product Designer | Building Renting Solutions
         </p>
         <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-          I'm not your typical design student. Building KHOZNA -<span className="font-bold text-purple-600">KHOZNA</span> - 
+          I'm not your typical design student. Building -<span className="font-bold text-purple-600">KHOZNA</span> - 
           solving real housing problems through design.
         </p>
         <div className="flex gap-4 justify-center flex-wrap">
