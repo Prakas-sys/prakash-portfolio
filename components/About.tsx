@@ -41,11 +41,12 @@ export default function About() {
           <div>
             <div className="bg-gradient-to-br from-purple-600 to-pink-600 p-1 rounded-3xl">
               <div className="bg-white p-8 rounded-3xl">
-                <h3 className="text-3xl font-bold mb-6 text-purple-900">From Doti to Kirtipur</h3>
-                <p className="text-gray-700 mb-6 leading-relaxed">
-                  I've seen firsthand the problems faced by people moving to cities for 
-                  education and work. That's why I'm building solutions that matter.
-                </p>
+                <h3 className="text-3xl font-bold mb-6 text-purple-900">Building Solutions That Matter</h3>
+<p className="text-gray-700 mb-6 leading-relaxed">
+  I focus on understanding real user problems and creating design solutions 
+  that deliver measurable business results. Every project is an opportunity 
+  to solve meaningful challenges.
+</p>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <span className="text-3xl">🎨</span>

@@ -30,18 +30,18 @@ export default function Contact() {
         </div>
         
         <div className="bg-white/10 backdrop-blur-lg p-8 rounded-3xl border border-white/20">
-          <h3 className="text-2xl font-bold text-white mb-4">🚀 2025 Goals</h3>
-          <ul className="text-left text-purple-100 space-y-2 max-w-2xl mx-auto">
-            <li>✨ Launch KHOZNA MVP and get 100+ active users</li>
-            <li>📊 Build 5 case studies showing design → business impact</li>
-            <li>🤝 Connect with 50+ Nepal founders and designers</li>
-            <li>💰 Make Rs. 50k-70k/month from design projects</li>
-            <li>📚 Excel in BBS while building products</li>
-          </ul>
+         <h3 className="text-2xl font-bold text-white mb-4">🚀 2025 Focus</h3>
+<ul className="text-left text-purple-100 space-y-2 max-w-2xl mx-auto">
+  <li>✨ Launch KHOZNA MVP and validate product-market fit</li>
+  <li>📊 Build comprehensive case studies demonstrating ROI</li>
+  <li>🤝 Collaborate with founders and design leaders</li>
+  <li>💼 Take on challenging projects that drive business growth</li>
+  <li>📚 Continue learning and expanding skill set</li>
+</ul>
         </div>
         
         <div className="mt-12">
-          <p className="text-white text-lg mb-4">Based in Kirtipur | Originally from Doti</p>
+          <p className="text-white text-lg mb-4">Based in Kathmandu, Nepal</p>
           <p className="text-purple-200">
             "My goal isn't just graduation—it's building businesses that create value."
           </p>
