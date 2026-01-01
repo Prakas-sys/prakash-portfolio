@@ -3,7 +3,7 @@ export default function Skills() {
     {
       title: "Design Tools",
       icon: "🎨",
-      skills: ["Figma", "Adobe XD", "Photoshop", "Illustrator"],
+      skills: ["Figma", "Illustrator"],
       color: "from-pink-500 to-rose-500"
     },
     {
@@ -15,7 +15,7 @@ export default function Skills() {
     {
       title: "Development",
       icon: "💻",
-      skills: ["HTML", "CSS", "JavaScript Basics", "Responsive Design", "Webflow", "Framer"],
+      skills: ["HTML", "CSS", "JavaScript Basics", "Responsive Design", "Development with AI"],
       color: "from-blue-500 to-cyan-500"
     },
     {

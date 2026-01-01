@@ -8,13 +8,19 @@ export default function About() {
 
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <div className="bg-gradient-to-br from-purple-100 to-pink-100 p-8 rounded-3xl">
-              <h3 className="text-2xl font-bold mb-4 text-purple-900">The Story</h3>
-              <p className="text-gray-700 leading-relaxed">
-                While most people my age are just starting college, I spent a year after +2
-                building real products, learning UX/UI deeply, and understanding what it takes
-                to create solutions people actually use.
+            <div className="bg-gradient-to-br from-purple-600 to-pink-600 p-8 rounded-3xl text-white">
+              <h3 className="text-2xl font-bold mb-4">My Journey</h3>
+              <p className="mb-6 opacity-90">
+                I've shared the full story of how I started building products and my journey into product design on LinkedIn.
               </p>
+              <a
+                href="https://www.linkedin.com/feed/update/urn:li:activity:7412167978009628673/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block bg-white text-purple-600 px-6 py-3 rounded-xl font-bold hover:bg-purple-50 transition-colors shadow-lg"
+              >
+                Read the Full Story on LinkedIn ↗
+              </a>
             </div>
 
             <div className="bg-gradient-to-br from-blue-100 to-purple-100 p-8 rounded-3xl">
