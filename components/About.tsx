@@ -26,10 +26,10 @@ export default function About() {
             <div className="bg-gradient-to-br from-blue-100 to-purple-100 p-8 rounded-3xl">
               <h3 className="text-2xl font-bold mb-4 text-blue-900">What I Bring</h3>
               <ul className="space-y-3 text-gray-700">
-                <li>✨ UX/UI design focused on business outcomes, not just aesthetics</li>
-                <li>🚀 Real product development experience (not just academic projects)</li>
-                <li>💡 Understanding of market needs from researching real problems</li>
-                <li>📊 Strategic thinking: connecting design decisions to revenue</li>
+                <li>✨ **Strategic UX/UI**: Moving beyond aesthetics to drive measurable business outcomes.</li>
+                <li>🚀 **Product Ownership**: Real-world experience building and launching market-ready solutions.</li>
+                <li>🧠 **User Psychology**: Applying deep behavioral insights to reduce friction and increase conversion.</li>
+                <li>📊 **Business-Driven Design**: Connecting every pixel to revenue, growth, and long-term ROI.</li>
               </ul>
             </div>
 
