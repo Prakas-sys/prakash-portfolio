@@ -29,16 +29,7 @@ export default function Contact() {
           </a>
         </div>
 
-        <div className="bg-white/10 backdrop-blur-lg p-8 rounded-3xl border border-white/20">
-          <h3 className="text-2xl font-bold text-white mb-4">🚀 2026 Focus</h3>
-          <ul className="text-left text-purple-100 space-y-2 max-w-2xl mx-auto">
-            <li>✨ Launch KHOZAN MVP and validate product-market fit</li>
-            <li>📊 Build comprehensive case studies demonstrating ROI</li>
-            <li>🤝 Collaborate with founders and design leaders</li>
-            <li>💼 Take on challenging projects that drive business growth</li>
-            <li>📚 Continue learning and expanding skill set</li>
-          </ul>
-        </div>
+        {/* Focus section removed as per request */}
 
         <div className="mt-12">
           <p className="text-white text-lg mb-4">Based in Nepal</p>

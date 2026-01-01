@@ -27,15 +27,7 @@ export default function About() {
               </ul>
             </div>
 
-            <div className="bg-gradient-to-br from-yellow-100 to-orange-100 p-8 rounded-3xl">
-              <h3 className="text-2xl font-bold mb-4 text-orange-900">Current Focus (2026) Update</h3>
-              <ul className="space-y-2 text-gray-700">
-                <li>🎯 Launching KHOZAN MVP</li>
-                <li>📈 Building case studies showing design → business impact</li>
-                <li>🤝 Connecting with founders, designers, and entrepreneurs</li>
-                <li>📚 BBS at Shahid Smarak College</li>
-              </ul>
-            </div>
+            {/* Current Focus section removed as per request */}
           </div>
 
           <div>
