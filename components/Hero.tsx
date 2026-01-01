@@ -7,6 +7,17 @@ export default function Hero() {
       <div className="absolute bottom-20 left-1/2 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-4000"></div>
 
       <div className="relative z-10 text-center max-w-4xl">
+        <div className="w-32 h-32 md:w-40 md:h-40 mx-auto mb-8 relative group">
+          <div className="absolute inset-0 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full blur-md opacity-50 group-hover:opacity-100 transition-opacity duration-500"></div>
+          <div className="relative w-full h-full rounded-full p-1 bg-gradient-to-r from-purple-600 to-pink-600 overflow-hidden shadow-2xl">
+            <img
+              src="/profile image.jpeg"
+              alt="Prakash Balayar"
+              className="w-full h-full object-cover rounded-full"
+            />
+          </div>
+        </div>
+
         <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 animate-gradient">
           Prakash Balayar
         </h1>
@@ -14,7 +25,7 @@ export default function Hero() {
           Product Designer | Figuring out Entrepreneurship
         </p>
         <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-          I'm not your typical design student. Building -<span className="font-bold text-purple-600">KHOZNA</span> -
+          I'm not your typical design student. Building -<span className="font-bold text-purple-600">KHOZAN</span> -
           solving real housing problems through design.
         </p>
         <div className="flex gap-4 justify-center flex-wrap">
