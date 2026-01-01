@@ -58,15 +58,7 @@ export default function Skills() {
           ))}
         </div>
 
-        <div className="mt-12 text-center">
-          <div className="bg-gradient-to-r from-purple-600 to-pink-600 p-1 rounded-3xl inline-block">
-            <div className="bg-white px-8 py-6 rounded-3xl">
-              <p className="text-2xl font-bold text-gray-900">
-                🎯 Currently Learning: <span className="text-purple-600">AI for Design, Advanced UX Psychology</span>
-              </p>
-            </div>
-          </div>
-        </div>
+        {/* Currently Learning section removed as per request */}
       </div>
     </section>
   )
