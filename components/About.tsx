@@ -5,18 +5,18 @@ export default function About() {
         <h2 className="text-5xl font-bold mb-12 text-center bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-pink-600">
           My Unfair Advantage
         </h2>
-        
+
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <div className="bg-gradient-to-br from-purple-100 to-pink-100 p-8 rounded-3xl">
               <h3 className="text-2xl font-bold mb-4 text-purple-900">The Story</h3>
               <p className="text-gray-700 leading-relaxed">
-                While most people my age are just starting college, I spent a year after +2 
-                building real products, learning UX/UI deeply, and understanding what it takes 
+                While most people my age are just starting college, I spent a year after +2
+                building real products, learning UX/UI deeply, and understanding what it takes
                 to create solutions people actually use.
               </p>
             </div>
-            
+
             <div className="bg-gradient-to-br from-blue-100 to-purple-100 p-8 rounded-3xl">
               <h3 className="text-2xl font-bold mb-4 text-blue-900">What I Bring</h3>
               <ul className="space-y-3 text-gray-700">
@@ -26,27 +26,27 @@ export default function About() {
                 <li>📊 Strategic thinking: connecting design decisions to revenue</li>
               </ul>
             </div>
-            
+
             <div className="bg-gradient-to-br from-yellow-100 to-orange-100 p-8 rounded-3xl">
-              <h3 className="text-2xl font-bold mb-4 text-orange-900">Current Focus (2025)</h3>
+              <h3 className="text-2xl font-bold mb-4 text-orange-900">Current Focus (2026) Update</h3>
               <ul className="space-y-2 text-gray-700">
-                <li>🎯 Launching KHOZNA MVP</li>
+                <li>🎯 Launching KHOZAN MVP</li>
                 <li>📈 Building case studies showing design → business impact</li>
                 <li>🤝 Connecting with founders, designers, and entrepreneurs</li>
                 <li>📚 BBS at Shahid Smarak College</li>
               </ul>
             </div>
           </div>
-          
+
           <div>
             <div className="bg-gradient-to-br from-purple-600 to-pink-600 p-1 rounded-3xl">
               <div className="bg-white p-8 rounded-3xl">
                 <h3 className="text-3xl font-bold mb-6 text-purple-900">Building Solutions That Matter</h3>
-<p className="text-gray-700 mb-6 leading-relaxed">
-  I focus on understanding real user problems and creating design solutions 
-  that deliver measurable business results. Every project is an opportunity 
-  to solve meaningful challenges.
-</p>
+                <p className="text-gray-700 mb-6 leading-relaxed">
+                  I focus on understanding real user problems and creating design solutions
+                  that deliver measurable business results. Every project is an opportunity
+                  to solve meaningful challenges.
+                </p>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <span className="text-3xl">🎨</span>

@@ -8,7 +8,7 @@ export default function Projects() {
       solution: "Trust-focused platform with verified listings, real-time availability, and seamless experience.",
       role: "Founder & Product Designer",
       skills: ["UX Research", "UI Design", "Figma", "Product Strategy", "Market Validation"],
-      status: "Building MVP - Launching 2025",
+      status: "Building MVP - Launching 2026",
       color: "from-purple-500 to-pink-500",
       image: "/homepage-desktop.png.jpeg",
       secondaryImages: [
