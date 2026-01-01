@@ -11,6 +11,7 @@ export default function Projects() {
       status: "Building MVP - Launching 2026",
       color: "from-purple-500 to-pink-500",
       image: "/homepage-desktop.png.jpeg",
+      caseStudy: "https://www.behance.net/PrakashBlyr",
       secondaryImages: [
         "/Mobile reel mockup png.jpeg",
         "/home png mobile mockup.jpeg",
@@ -106,8 +107,18 @@ export default function Projects() {
                     </div>
                   )}
 
-                  <div className="pt-4 border-t border-gray-200 mt-auto">
+                  <div className="pt-4 border-t border-gray-200 mt-auto flex items-center justify-between">
                     <span className="text-sm font-semibold text-gray-900">{project.status}</span>
+                    {project.caseStudy && (
+                      <a
+                        href={project.caseStudy}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-sm font-bold text-purple-600 hover:text-pink-600 transition-colors flex items-center gap-1"
+                      >
+                        Case Study ↗
+                      </a>
+                    )}
                   </div>
                 </div>
               </div>
