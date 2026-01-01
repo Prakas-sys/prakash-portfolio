@@ -35,7 +35,7 @@ export default function Skills() {
         <p className="text-center text-gray-600 mb-12 text-lg">
           Design execution + Business thinking = Unfair advantage
         </p>
-        
+
         <div className="grid md:grid-cols-2 gap-8">
           {skillCategories.map((category, index) => (
             <div key={index} className="group hover:scale-105 transition-transform duration-300">
@@ -57,12 +57,12 @@ export default function Skills() {
             </div>
           ))}
         </div>
-        
+
         <div className="mt-12 text-center">
           <div className="bg-gradient-to-r from-purple-600 to-pink-600 p-1 rounded-3xl inline-block">
             <div className="bg-white px-8 py-6 rounded-3xl">
               <p className="text-2xl font-bold text-gray-900">
-                🎯 Currently Learning: <span className="text-purple-600">Next.js, No-Code Tools, AI for Design</span>
+                🎯 Currently Learning: <span className="text-purple-600">AI for Design, Advanced UX Psychology</span>
               </p>
             </div>
           </div>
