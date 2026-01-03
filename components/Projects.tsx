@@ -1,7 +1,7 @@
 export default function Projects() {
   const projects = [
     {
-      title: "KHOZAN",
+      title: "KHOZNA-webapp",
       subtitle: "Renting App for Nepal",
       description: "Making renting in Nepal simple and trustworthy with verified listings, real availability, and a smooth platform for tenants and landlords.",
       problem: "Finding reliable, verified rental housing when moving to a new city is extremely difficult in Nepal.",
@@ -25,7 +25,7 @@ export default function Projects() {
       description: "Designed intuitive dashboard for Nepal-based SaaS startup helping small businesses manage inventory.",
       role: "UX/UI Designer",
       skills: ["User Flows", "Wireframing", "Prototyping", "Design System"],
-      status: "Client Project",
+      status: "Coming Soon",
       color: "from-blue-500 to-cyan-500"
     },
     {
@@ -34,7 +34,7 @@ export default function Projects() {
       description: "Redesigned checkout flow for local e-commerce site, improving conversion rate by reducing friction points.",
       role: "UX/UI Designer",
       skills: ["User Research", "A/B Testing", "Conversion Design"],
-      status: "Case Study",
+      status: "Coming Soon",
       color: "from-green-500 to-teal-500"
     }
   ]
