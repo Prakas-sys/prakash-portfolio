@@ -19,7 +19,7 @@ export default function Hero() {
           </div>
 
           <p className="text-xl text-gray-600 leading-relaxed max-w-xl">
-            Building -<span className="font-bold text-purple-600">KHOZAN</span>-
+            Building -<span className="font-bold text-purple-600">KHOZNA-webapp</span>-
             solving real housing problems through design-led business solutions.
           </p>
 
